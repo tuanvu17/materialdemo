@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { compose } from 'redux';
-import LoadingIcon from './../../assets/images/loading.gif';
+import LoadingIcon from './../../assets/images/loading2.gif';
 import styles from './styles';
 
 class GlobalLoading extends Component {
